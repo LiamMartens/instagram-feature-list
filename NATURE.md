@@ -17,3 +17,4 @@
 | [@nature](https://www.instagram.com/nature/)                         | #nature                          |              | 2.8m                          |
 | [@awesomeglobe](https://www.instagram.com/awesomeglobe/)             |                                  |              | 1.3m                          |
 | [@awesome.earth](https://www.instagram.com/awesome.earth/)           |                                  |              | 3.4m                          |
+| [@voyaged](https://www.instagram.com/voyaged/)           |                                  |              | 1.1m                          |
