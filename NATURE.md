@@ -19,3 +19,5 @@
 | [@awesome.earth](https://www.instagram.com/awesome.earth/)           |                                  |              | 3.4m                          |
 | [@voyaged](https://www.instagram.com/voyaged/)                       |                                  |              | 1.1m                          |
 | [@natureprimeshot](https://www.instagram.com/natureprimeshot/)       | #natureprimeshot                 |              | 13.6k                         |
+| [@solarcollective](https://www.instagram.com/solarcollective/)       | #solarcollective                 |              | 20.6k                         |
+| [@mindthemountains](https://www.instagram.com/mindthemountains/)     | #mindthemountains                |              | 14.7k                         |
