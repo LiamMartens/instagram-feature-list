@@ -18,3 +18,4 @@
 | [@ig_myshots](https://www.instagram.com/ig_myshots/)                       | #ig_myshots            |                                               | 141k                          |
 | [@natgeoyourshot](https://www.instagram.com/natgeoyourshot/)               | #yourshotphotographer  |                                               | 1.4m                          |
 | [@creativeoptic](https://www.instagram.com/creativeoptic/)                 | #creativeoptic         |                                               | 178k                          |
+| [@supremeshutter](https://www.instagram.com/supremeshutter/)               | #supremeshutter        | No DM                                         | 13.1k                         |
