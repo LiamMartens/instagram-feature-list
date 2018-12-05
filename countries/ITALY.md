@@ -8,3 +8,4 @@
 | [@milano](https://www.instagram.com/milano/)                 | #thisismilano               |              | 60.6k                         |
 | [@igersmilano](https://www.instagram.com/igersmilano/)       | #igersmilano                |              | 52.2k                         |
 | [@milanstravel](https://www.instagram.com/milanstravel/)     | #milanstravel               |              | 30.7k                         |
+| [@aroundmilano](https://www.instagram.com/aroundmilano/)     |                             |              | 32.7k                         |
