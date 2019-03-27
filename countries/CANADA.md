@@ -1,4 +1,4 @@
 # Canada
-|                                          account                                           |       tags       | good to know | current followcount (11/2018) |
+|                                          account                                           |       tags       | good to know | current followcount (03/2019) |
 | ------------------------------------------------------------------------------------------ | ---------------- | ------------ | ----------------------------- |
-| [@livelovecanada](https://www.instagram.com/livelovecanada/)                               | #livelovecanada  |              | 40.6k                         |
+| [@livelovecanada](https://www.instagram.com/livelovecanada/)                               | #livelovecanada  |              |76.9k|

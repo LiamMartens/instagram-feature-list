@@ -1,4 +1,4 @@
 # Canada
-|                          account                           |             tags             | good to know | current followcount (11/2018) |
+|                          account                           |             tags             | good to know | current followcount (03/2019) |
 | ---------------------------------------------------------- | ---------------------------- | ------------ | ----------------------------- |
-| [@germanroamers](https://www.instagram.com/germanroamers/) | #weroamgermany #weroamabroad |              | 312k                          |
+| [@germanroamers](https://www.instagram.com/germanroamers/) | #weroamgermany #weroamabroad |              |335k|
