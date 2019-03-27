@@ -1,10 +1,13 @@
 {
-  "name": "scripts",
+  "name": "instagram-feature-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "detect-removed": "node detect-removed.js",
+    "detect-doubles": "node detect-doubles.js",
+    "sync-all": "node sync-all.js",
+    "sync-followers": "node sync-followers.js"
   },
   "keywords": [],
   "author": "",
