@@ -12,7 +12,6 @@
 | [@discover.n.y.c](https://www.instagram.com/discover.n.y.c/)       |                        |                 |33.8k|
 | [@online_newyork](https://www.instagram.com/online_newyork/)       | #online_newyork        |                 |68k|
 | [@newyork_instagram](https://www.instagram.com/newyork_instagram/) |                        |                 |1.02M|
-| [@thewelcomehlub](https://www.instagram.com/thewelcomehlub/)       | #nyc_twh               | Tag and hashtag | 6.7k                          |
 | [@newyork_world](https://www.instagram.com/newyork_world/)         |                        | DM              |207k|
 | [@topnewyorkphoto](https://www.instagram.com/topnewyorkphoto/)     | #topnewyorkphoto       |                 |225k|
 | [@ig_nycity](https://www.instagram.com/ig_nycity/)                 | #ig_nycity             |                 |122k|

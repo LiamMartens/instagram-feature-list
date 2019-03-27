@@ -2,7 +2,6 @@
 |                               account                                |          tags          |         good to know          | current followcount (03/2019) |
 | -------------------------------------------------------------------- | ---------------------- | ----------------------------- | ----------------------------- |
 | [@portvisual](https://www.instagram.com/portvisual/)                 | #portvisual            | mostly reposts females        |124k|
-| [@portraits_vision](https://www.instagram.com/portraits_vision/)     |                        | mostly reposts females        | 339k                          |
 | [@portraits_mf](https://www.instagram.com/portraits_mf/)             |                        | mostly reposts females        |500k|
 | [@moodyports](https://www.instagram.com/moodyports/)                 | #moodyports            |                               |407k|
 | [@portraitvision](https://www.instagram.com/portraitvision/)         | #portraitvision        | mostly reposts females        |571k|
