@@ -11,3 +11,5 @@
 | [@urbanromantix](https://www.instagram.com/urbanromantix/)                                   | #urbanromantix          |                                             | 117k                          |
 | [@streetleaks](https://www.instagram.com/streetleaks/)                                       | #streetleaks            |                                             | 92.6k                         |
 | [@urbanyeg](https://www.instagram.com/urbanyeg/)                                             | #urbanyeg               |                                             | 29.7k                         |
+| [@street.focus_on](https://www.instagram.com/street.focus_on/)                               | #street_focus_on        |                                             | 29.7k                         |
+| [@streetdreamsmag](https://www.instagram.com/streetdreamsmag/)                               | #streetdreamsmag        |                                             | 29.7k                         |
